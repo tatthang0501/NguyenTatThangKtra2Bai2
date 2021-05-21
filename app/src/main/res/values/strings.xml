@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NguyenTatThangKtraBai2</string>
+    <string-array name="major">
+        <item>CNTT</item>
+        <item>Tiếng Anh</item>
+        <item>Kinh Tế</item>
+        <item>Truyền Thông</item>
+    </string-array>
+</resources>
